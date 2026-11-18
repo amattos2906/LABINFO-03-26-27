@@ -1,0 +1,5 @@
+nome: Abner Mattos
+nummec: 139674
+
+pwd A-139674-notas.txt 
+home/abner
