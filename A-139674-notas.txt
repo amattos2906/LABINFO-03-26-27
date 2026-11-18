@@ -17,3 +17,10 @@ touch A139674/cmdstask2.txt
 history >  cmdstask2.txt
 tarefa 2: concluida 
 
+cd A139674
+git clone https://github.com/amattos2906/LABINFO-03-26-27.git
+
+touch A139674/index.html
+tarefa 3: concluida 
+
+
