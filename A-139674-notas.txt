@@ -3,3 +3,17 @@ nummec: 139674
 
 pwd A-139674-notas.txt 
 home/abner
+
+tarefa 1: criacao de um arquivo de indentificacao.txt
+
+mkdir A139674 #criar uma pasta com A****** nummec
+pwd A139674 
+/home/abner 
+touch A139674/README.md # criar um ficheiro README.md na pasta A139674
+echo " Teste de LI 2026/2027 " > A139674/README.md # criar um texto dentro de ficheiro
+realpath A139674/README.md
+home/abner/A139674/README.md
+touch A139674/cmdstask2.txt
+history >  cmdstask2.txt
+tarefa 2: concluida 
+
